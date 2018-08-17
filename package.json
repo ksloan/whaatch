@@ -1,0 +1,14 @@
+{
+  "name": "whaatch",
+  "version": "1.0.0",
+  "description": "Watch a git director and commit on every filechange",
+  "main": "index.js",
+  "bin": {
+    "whaatch": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
