@@ -15,5 +15,5 @@ whaatch <git dir>
 
 ```
 npm i whaatch
-whaatch <git dir>
+./node_modules/.bin/whaatch <git dir>
 ```
