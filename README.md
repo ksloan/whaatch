@@ -1,7 +1,19 @@
-# install
+# 🧐 whaatch
 
-`npm i -g whaatch`
+Watch a git directory and commit on every file change.
 
-# run 
+## Usage
 
-`whaatch <git dir>`
+### Global
+
+```
+npm i -g whaatch
+whaatch <git dir>
+```
+
+### Local
+
+```
+npm i whaatch
+whaatch <git dir>
+```
